@@ -4,7 +4,7 @@ Small arduino program that display a self playing game where a car (the characte
 It is shown on a composite compatible display such as an old CRT/LCD TV.
 Useless but fun to look at for 5 minutes.
 
-![4scanner logo](img/initialascii_crt.png)
+![initialASCII](img/initialascii_crt.png)
 
 ## How to use
 - Wire an arduino like on this [page](https://playground.arduino.cc/Main/TVout/). (you will need something like [this](https://www.amazon.ca/Poyiccot-Speaker-Terminal-Female-Spring/dp/B077JQMPPZ/ref=sr_1_4?keywords=rca+plug&qid=1555456684&s=gateway&sr=8-4))
